@@ -1,5 +1,3 @@
-# Moss Project
+# Car Parking Detection
 
-Using transferred learning from VGG-16
-- The model and its weights from the convolution blocks were imported
-- Fully connected layers were added seperately
+- Detecting where the cars are parked on the image using the Class Activation Map (CAM) from Convolution layers
